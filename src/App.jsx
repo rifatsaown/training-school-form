@@ -142,7 +142,7 @@ const App = () => {
         <div className={`lg:mx-[13.5em]`}>
           <div className="space-y-5 py-10 w-3/4 mx-auto">
             <h2 className="lg:text-4xl text-3xl font-extrabold text-center">
-              C&T Training School Interest Form – Learn More About Our Program
+              Training School Form Filling
             </h2>
             <p className="text-lg text-center">
               This is not a formal application but a way for us to know
